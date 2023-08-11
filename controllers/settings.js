@@ -1,6 +1,6 @@
 global.author = "LORENZO";
 global.key_free = ["freeapikey"];
-global.key_premium = [lorenzo];
+global.key_premium = ["lorenzo"];
 global.limit_free = "30";
 global.limit_premium = "99999";
 global.dateLimit = "Oktober, 31 2022",
